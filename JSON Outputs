@@ -1,0 +1,40 @@
+Message 1
+
+{
+  "issue_category": "Facilities - Water Leak",
+  "urgency": "HIGH",
+  "sentiment": "NEGATIVE",
+  "followup_required": "Y",
+  "recommended_team": "Facilities Management",
+  "escalation_reason": "Potential property damage and water wastage",
+  "data_sensitivity_risk": "LOW",
+  "brief_summary": "Water leak reported in Building C requiring urgent maintenance."
+}
+
+
+Message 2
+
+{
+  "issue_category": "Waste Management",
+  "urgency": "MEDIUM",
+  "sentiment": "NEGATIVE",
+  "followup_required": "Y",
+  "recommended_team": "Sustainability Team",
+  "escalation_reason": "Repeated recycling contamination affecting waste management compliance",
+  "data_sensitivity_risk": "LOW",
+  "brief_summary": "Contaminated recycling bins require investigation and corrective action."
+}
+
+
+Message 3
+
+{
+  "issue_category": "Accessibility",
+  "urgency": "HIGH",
+  "sentiment": "NEGATIVE",
+  "followup_required": "Y",
+  "recommended_team": "Facilities and Accessibility Services",
+  "escalation_reason": "Blocked accessible entrance affects building accessibility and inclusion.",
+  "data_sensitivity_risk": "LOW",
+  "brief_summary": "Accessible entrance blocked near the main building for two days."
+}
